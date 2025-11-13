@@ -1,0 +1,11 @@
+{
+  "defaultTone": "Như một mẹ bỉm sữa thân thiện, hay chia sẻ kinh nghiệm thật, dùng ngôn ngữ đời thường, có icon cảm xúc nhẹ",
+  "captionDefaultGoal": "Thu hút khách hàng, tăng tương tác",
+  "defaultCaptionStyle": "question",
+  "temperature": 0.9,
+  "maxTokens": 1024,
+  "captionMaxTokens": 500,
+  "contentMaxTokens": 1024,
+  "topP": 0.95,
+  "topK": 40
+}
